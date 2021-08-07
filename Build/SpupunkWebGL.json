@@ -1,0 +1,12 @@
+{
+"companyName": "EasleyDunn Productions",
+"productName": "Spurpunk 4.5",
+"dataUrl": "SpupunkWebGL.data.unityweb",
+"wasmCodeUrl": "SpupunkWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "SpupunkWebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
